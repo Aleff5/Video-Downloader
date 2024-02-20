@@ -15,7 +15,7 @@ Video Downloader é um programa em python feito para baixar videos em formato mp
 ## Layout Conversor 
 ![conversor 1](https://github.com/Aleff5/assets/blob/main/img%20git/conversor/Captura%20de%20tela%202024-02-20%20174756.png) ![conversor 2](https://github.com/Aleff5/assets/blob/main/img%20git/conversor/Captura%20de%20tela%202024-02-20%20174818.png)
 
-## Bibliotecas utilizadas 
+# Bibliotecas utilizadas 
 
 - pytube
 - customtkinter
@@ -23,7 +23,7 @@ Video Downloader é um programa em python feito para baixar videos em formato mp
 - moviepy.editor
 - os
 
-# Instalação de bibliotecas
+## Instalação de bibliotecas
 
 ```cmd
 # pytube
