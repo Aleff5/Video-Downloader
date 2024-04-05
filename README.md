@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Video Downloader é um programa em python feito para baixar videos em formato mp4 ou mp3 e converter um video existente para audio 
+Video Downloader é um script em python feito para baixar videos em formato mp4, mp3 ou converter um video existente para audio 
 
 ## Layout MP4
 ![mp4 1](https://github.com/Aleff5/assets/blob/main/img%20git/mp4/Captura%20de%20tela%202024-02-20%20174545.png) ![mp4 2](https://github.com/Aleff5/assets/blob/main/img%20git/mp4/Captura%20de%20tela%202024-02-20%20174648.png)
